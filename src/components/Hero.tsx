@@ -27,10 +27,10 @@ export default function Hero() {
 
       <div className="relative z-10 text-center text-white">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          АРЕНДА СПЕЦТЕХНИКИ
+          ТЕХНИКА ПОД ЗАДАЧУ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Экскаваторы, краны, бульдозеры — подача на объект от 2 часов
+          Подберём технику и навесное оборудование под вашу задачу и сделаем работу в короткие сроки
         </p>
       </div>
     </div>
