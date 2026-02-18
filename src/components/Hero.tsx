@@ -29,9 +29,15 @@ export default function Hero() {
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
           ТЕХНИКА ПОД ЗАДАЧУ
         </h1>
-        <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
+        <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90 mb-8">
           Подберём технику и навесное оборудование под вашу задачу и сделаем работу в короткие сроки
         </p>
+        <a
+          href="#contact"
+          className="inline-block bg-white text-black px-8 py-3 text-sm uppercase tracking-wide font-semibold transition-all duration-300 hover:bg-transparent hover:text-white border-2 border-white"
+        >
+          Оставить заявку
+        </a>
       </div>
     </div>
   );
