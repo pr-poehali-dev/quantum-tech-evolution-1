@@ -19,18 +19,18 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
+          src="https://cdn.poehali.dev/projects/a09e32eb-9925-4394-9404-25184db3186e/files/3e5f5be0-a8c4-40d2-a384-4f369879fe93.jpg"
+          alt="Спецтехника на строительной площадке"
           className="w-full h-full object-cover"
         />
       </motion.div>
 
       <div className="relative z-10 text-center text-white">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          ОТКРОЙ
+          АРЕНДА СПЕЦТЕХНИКИ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Исследуй границы дизайна с иммерсивным параллакс-эффектом
+          Экскаваторы, краны, бульдозеры — подача на объект от 2 часов
         </p>
       </div>
     </div>
